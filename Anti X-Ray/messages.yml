@@ -1,0 +1,93 @@
+Messages:
+  CantBreakYet:
+    #到达上限通知
+    Text:
+      '&eWow, you''re good at mining!  You have to wait about {0} minutes to break
+      this block.  Consider taking a break from mining to do something else, like
+      building or exploring.  This mining speed limit keeps our ores safe from cheaters.  :)\n&eClick
+      here for a brief explanation:\n&e http://bit.ly/1yG91ge'
+      #哦亲爱的玩家你太擅长采矿了，所以你必须等待{0}分钟后才能采矿
+      #考虑休息一下稍作放松，做些别的事情，比如建造家园或探索群系。
+      #这只是为了防止矿物被作弊者带走。单击此处以获取简要说明：http://bit.ly/1yG91ge
+    Notes:
+      "0: minutes until the block can be broken  1: how often the player has
+      already reached his limit (unused by default)"
+      #0：多长时间后才能破坏方块
+      #1：玩家到达极限的频率
+  AdminNotification:
+    #管理员通知
+    Text: "&e{0} reached the mining speed limit. He already reached it about {1} times."
+    #玩家{0}到达了数值上限，他已经到达了{1}次极限
+    Notes: "0: player name  1: how often the player has already reached his limit"
+    #0：玩家ID
+    #1：玩家到达极限的频率
+  NoPermission:
+    #没权限说明
+    Text: "&cYou have no permission for that."
+    #你没有权限做这件事
+  OnlyAsPlayer:
+    #仅玩家执行
+    Text: "&cThis command can only be executed as a player."
+    #此命令只能作为玩家执行
+  CommandHelpHeader:
+    #帮助指令顶部
+    Text: "&2----- &4AntiXRay Commands &2-----"
+    #插件命令
+  CommandReloadCmd:
+    #重载命令运行
+    Text: "&e/antixray reload"
+    #插件重载
+  CommandReloadDesc:
+    #重载命令说明
+    Text: "&3     - Reloads the configuration and messages."
+    #重载插件配置文件&信息文件
+  ReloadDone:
+    #重载成功
+    Text: "&aAntiXRay was reloaded. Check the log if there were any errors."
+    #插件已经重载成功，如果有错误请检查日志文件
+  CommandCheckCmd:
+    #检查命令运行
+    Text: "&e/antixray check [player]"
+    #检查玩家数值
+  CommandCheckDesc:
+    #检查命令说明
+    Text: "&3     - Shows you your or another players current points."
+    #为你显示你的或者其他玩家的数值
+  CurrentPoints:
+    #当前点数
+    Text: "&e{0} currently has {1} points."
+    #玩家{0}当前拥有{1}点数
+    Notes: "0: player name  1: the players points"
+    #0：玩家ID
+    #1：玩家拥有的数值
+  ReachedLimitCount:
+    #数值达到限制
+    Text: "&e{0} has reached the limit {1} times."
+    #玩家{0}的数值达到限制{1}次
+    Notes: "0: player name  1: how often the player has already reached the limit"
+    #0：玩家ID
+    #1：玩家到达极限的频率
+  NoPlayerDataFound:
+    #找不到玩家数据
+    Text: "&eNo PlayerData was found for '{0}'."
+    #找不到ID为{0}的玩家数值
+    Notes: "0: player name"
+    #0：玩家ID
+  CommandSetCmd:
+    #运行命令说明
+    Text: "&e/antixray set <player> <points|counter> <value>"
+    #设置玩家点数为数值
+  CommandSetDesc:
+    #设置命令说明
+    Text: "&3     - Sets the players points or counter value."
+    #设置玩家点数或者数值
+  InvalidNumber:
+    #无效的数值
+    Text: "&c'{0}' is not a valid number."
+    #{0}不是一个有效的数值
+    Notes: "0: the invalid argument"
+    #0：无效的参数
+  ChangesAreDone:
+    #改变成功
+    Text: "&aChanges were successfully made."
+    #成功改变了模式

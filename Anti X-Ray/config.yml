@@ -1,0 +1,39 @@
+AntiXRay:
+  DebugMode: false
+  #调试模式：默认关闭
+  NewPlayerStartingPoints: -400
+  #新加入的玩家初始数值：-400
+  PointsEarnedPerHourPlayed: 800
+  #玩家每小时获得的数值：800
+  MaximumPoints: 1600
+  #最大数值：1600
+  IgnoreMaxPointsForBlockRatio: true
+  #忽略方块比例最大点数：默认开启
+  ExemptCreativeModePlayers: true
+  #豁免创造模式玩家：默认开启
+  NotifyOnMiningLimitReached: false
+  #达到限制时通知玩家：默认关闭
+  DefaultMaxHeight: 63
+  #最大管辖高度：63
+  #即玩家在此高度以上不受监控
+  ProtectedBlockValues:
+    #自定义受保护的方块属性
+    DIAMOND_ORE:
+      Value: 100
+      #开采一个所增加的点数
+      MaxHeight: 20
+      #最大矿石高度
+    EMERALD_ORE:
+      Value: 50
+      MaxHeight: 35
+  Worlds:
+    #自定义世界属性
+    world: ""
+    #主世界
+    world_nether:
+      #地狱世界
+      DefaultMaxHeight: 256
+      #默认最大高度
+    world_the_end:
+      #末地世界
+      DefaultMaxHeight: 256
