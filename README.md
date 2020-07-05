@@ -1,6 +1,6 @@
 # EN-US:
-This is the translation repository where I reprint foreign plugins or transfer my own plugins to foreign websites.  
-If there is no special instruction or permission, all my works are in accordance with the agreement of [CC-BY-NC-SA-4.0]
+This is the translation warehouse where I reprinted foreign plugins or reprinted my own plugins to foreign websites   
+ If there is no special instructions or permission, all my works will follow the [CC-BY-NC-SA-4.0] agreement by default   
 
 
 # ZN-CH:
