@@ -1,9 +1,5 @@
 # Anti X-Ray - 高版本可用的反矿透
 
-## 授权证明
-
-授权证明.png
-
 ## 插件简介
 
 有效防止作弊者带走大量好的资源，同时也不会大量消耗系统资源！  
@@ -128,4 +124,3 @@ messages.yml
 [^1]Why do I have to wait to mine diamonds?!  
 [^2]此汉化文件基于 V1.9.0 For Minecraft 1.14.4
 
-泥潭对 Markdown 的支持实在是太\*\*\*了[笑哭]
