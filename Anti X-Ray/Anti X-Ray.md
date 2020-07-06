@@ -122,6 +122,6 @@ messages.yml
 ## 注解
 
 [^1]Why do I have to wait to mine diamonds?!  
-[^2]此汉化文件基于 V1.9.0 For Minecraft 1.14.4
+[^2]此汉化文件基于 V1.9.0 For Minecraft 1.14.4  
 [^3]如果没有特殊说明，默认依照[CC-BY-NC-SA-4.0]协议
 
