@@ -1,0 +1,16 @@
+#玩家加入
+Join: "[&a+&r] &6欢迎玩家&6&l%player% &6加入服务器！"
+#玩家退出
+Leave: "[&a-&r] &6玩家&6&l%player% &6暂时离开了服务器！"
+#新加入的玩家
+New-Player: "[&a+&r] &6欢迎玩家&6&l%player% &6第一次加入服务器！"
+#是否选择打开新加入玩家提示：默认开启
+First-Join-Message: true
+#语言选项：默认EN
+Language: EN
+#标题文字显示：默认开启
+Title-Onjoin: true
+#主要标题（第一行）
+Title-Onjoin-Message-Main: 欢迎
+#附属标题（第二行）
+Title-Onjoin-Message-Bottem: 来到我们的服务器
