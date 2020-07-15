@@ -20,4 +20,4 @@ Hello, I am a game player from China. I am very interested in your plugin / mod 
 
 # Translation authorization
 
-Hello, I am a developer from China, I am very interested in your plugin / mod [name].so I helped you translate this project into Chinese. I hope you won't be angry about this :-D
+Hello, I am a developer from China, I am very interested in your plugin / mod [name]. So I helped you translate this project into Chinese. I hope you won't be angry about this :-D
