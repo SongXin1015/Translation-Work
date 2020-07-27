@@ -1,4 +1,4 @@
-# Form
+# From
 
 https://dev.bukkit.org/projects/paintball_pure_war
 
